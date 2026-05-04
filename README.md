@@ -152,4 +152,4 @@ For questions or collaboration:
 * 💻 [GitHub](https://github.com/saharnazyp)
 * 📊 [Kaggle](https://www.kaggle.com/saharnazyaghoobpoor)
 
-
+🎯 MY GOAL:Aiming to lead the evolution of Automotive AI Systems through innovation and data-driven solutions.
