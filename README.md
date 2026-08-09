@@ -1,12 +1,6 @@
 ## 🚗 Vehicle Telematics Analysis with Machine Learning
 
-### 📌 Overview
 
-This project focuses on analyzing vehicle telematics data to uncover driving behaviors, detect anomalies, and train predictive models aimed at enhancing efficiency, safety, and diagnostics across fleets.
-
-With the rise of IoT and connected cars, vast volumes of telematics data are now available. This repository demonstrates how machine learning and deep learning methods can harness this data for meaningful insights.
-
----
 
 ### 🗂️ Project Structure
 
